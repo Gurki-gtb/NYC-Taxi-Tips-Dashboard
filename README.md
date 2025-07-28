@@ -19,4 +19,4 @@ This interactive dashboard explores tipping behavior in New York City using publ
 
 ## 🖼️ Preview of the Live Dashboard
 
-![NYC Taxi Tip Dashboard][taxitips.png]
+![NYC Taxi Tip Dashboard](taxitips.png)
